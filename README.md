@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/Ice4games/Ice-4-games/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Information Collection and Use
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The application collects certain information about the device, including the following:
 
-### Markdown
+- Device, model;
+- Device properties related to the size and orientation of the screen, volume and battery;
+- The number of system and video memory.
+- Network connection type and speed;
+- Country, time zone settings (country and preferred language);
+- Graphical API.
+- Operating system;
+- IP address;
+- Device ID for advertisers.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This information will help us and advertisers to adapt games and advertising to players and their devices, such as providing advertisements for specific device types, player languages, and game preferences.
 
-```markdown
-Syntax highlighted code block
+You can at any time withdraw your consent to the collection and processing of data. For more details, see "Refusal to collect data".
 
-# Header 1
-## Header 2
-### Header 3
+### Policy of data storage, management of your information
 
-- Bulleted
-- List
+Third-party advertisers (and the advertising networks they use) that host advertising in the Services can use cookies and related technologies to store information or read information from your browser or device. Technologies used for this purpose may include: cookies; web beacons; pixel tracking; and / or local shared objects (also known as Flash cookies). To learn more, check out the privacy policies of the services that are used to display ads in our applications:
 
-1. Numbered
-2. List
+Unity - [https://unity3d.com/legal/privacy-policy](https://unity3d.com/legal/privacy-policy)
 
-**Bold** and _Italic_ and `Code` text
+Admob - [https://policies.google.com/privacy]( https://policies.google.com/privacy)
 
-[Link](url) and ![Image](src)
-```
+Applovin - [https://www.applovin.com/privacy/](https://www.applovin.com/privacy/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Changes
 
-### Jekyll Themes
+This privacy policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy in the text message in the application. It is recommended that you regularly consult this Privacy Policy for any changes, as continued use is considered approval of all changes.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ice4games/Ice-4-games/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Refusal to collect data
 
-### Support or Contact
+When you start playing a new free game to the game, you will be presented with a choice of evasion and communication with the Privacy Policy. This will appear on the first ad that you see in every game. The second way to abandon our collection of information from mobile devices, please go to your device's settings to set the " Limit ad tracking" or other similar function on your device. You can also opt-out of data collection and use them in the process, each time an announcement appears in the game, You can get access and change the privacy setting using the "ℹ" icon or "hand" icon in the advertisement.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thus, the collected information will not be maintained or used by us or third parties.
+
+Please note: if you opt out, you will still see ads on your device, but it will only be random, non-targeted ads that are less relevant to your interests.
+
+### Children
+
+We do not use the Application to knowingly request data or sell them to children under 13 (and in certain jurisdictions under the age of 16) years of age. 
+
+
+### Contact us
+
+If you have any questions regarding privacy when using the Application, please contact us by e-mail: my4321ac@gmail.com.
