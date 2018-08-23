@@ -47,4 +47,4 @@ We do not use the Application to knowingly request data or sell them to children
 
 ### Contact us
 
-If you have any questions regarding privacy when using the Application, please contact us by e-mail: my4321ac@gmail.com.
+If you have any questions regarding privacy when using the Application, please contact us by e-mail: lesya.m2245@gmail.com.
